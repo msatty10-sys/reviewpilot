@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+sql_app.db
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+alembic/versions/*.pyc
